@@ -2,6 +2,27 @@
 
 Kids Planner is a React + Vite app for organizing family school life in one place. It gives parents a calm dashboard for tracking assignments, weekly routines, reading minutes, important school dates, and uploaded weekly school files for multiple kids.
 
+## Overview
+
+This project is designed as a lightweight family school hub. Instead of juggling paper packets, reading logs, sticky notes, and scattered reminders, you can manage the week in a single interface built around real parent workflows.
+
+It currently runs fully in the browser with local storage, which makes it easy to test, customize, and expand into a future cloud-connected version.
+
+## Quick Look
+
+- Built for multi-child homework and school planning
+- Includes assignments, planner tasks, reading logs, files, and important dates
+- Supports guided PDF import for weekly school handouts
+- Uses local browser storage, so no backend setup is required
+
+## Screenshot
+
+Add a project screenshot here once you have one available:
+
+```md
+![Kids Planner dashboard](./docs/kids-planner-dashboard.png)
+```
+
 ## Features
 
 - Dashboard with quick stats, today’s tasks, upcoming dates, and weekly notes
@@ -82,3 +103,6 @@ src/
 - Share planner views with caregivers or teachers
 - Add calendar export and notifications
 
+## Suggested GitHub Description
+
+Kids Planner is a family school dashboard for tracking assignments, routines, reading logs, files, and important dates.
